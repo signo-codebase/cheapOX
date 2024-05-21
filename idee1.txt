@@ -1,0 +1,16 @@
+IDEE INIZIALI
+1. Batteria 9V
+2. Progetto basato su STM32 Black Pill e pillScopePlus
+3. Display montato sulla scheda e sopraelevato
+4. BNC e di fianco 2 pin header maschi
+5. USB e chip USB/UART per firmware
+6. Invece di pulsanti, encoder
+7. Switch on/off, NRST e BOOT0 pushbuttons
+8. Mounting holes
+9. Estendere la dinamica in ingresso fino a 12V, con diversi selettori che
+   azionano partitori resistivi, operazionale alimentato a 5 o più V, poi
+   entrare nel micro a 3.3V
+
+
+QUESITI
+1. Da USB DC-DC boost per ottenere 9V? Alimentare solo USB?
