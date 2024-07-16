@@ -1,0 +1,11 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\ntocu\OneDrive\Documenti\GitHub\cheapOX\SupplySplit.asc
+Start Time: Tue Jun 18 17:38:38 2024
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.036 seconds.
+
